@@ -1,0 +1,204 @@
+# time_begin = 02:31
+
+nad@
+
+# sent_id = 3
+# text = Я / закончила Пензенский механический техникум / аа...
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	Пензенский	Пензенский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+5	механический	механический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	техникум	техникум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	аа	ао	INTJ	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 5
+# text = отработала на заводе / завод имени Фрунзе Пензенский такой завод был
+1	отработала	отработать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	на	на	ADP	_	_	_	_	_	_
+3	заводе	завод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	завод	завод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+6	имени	имя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+7	Фрунзе	Фрунзе	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+8	Пензенский	Пензенский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+9	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+10	завод	завод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+11	был	быть	V	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 7
+# text = семь лет отработала / перестроечное время началось / да...
+1	семь	семь	NUM	_	!Case=Nom	_	_	_	_
+2	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+3	отработала	отработать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	перестроечное	перестроечный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+6	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+7	началось	начаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	да	да	PART	_	_	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 9
+# text = освоила...
+1	освоила	освоить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 11
+# text = отучилась на бухгалтера / и / пятнадцать лет почти отработала
+1	отучилась	отучиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+2	на	на	ADP	_	_	_	_	_	_
+3	бухгалтера	бухгалтер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	и	и	CCONJ	_	_	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	пятнадцать	пятнадцать	NUM	_	!Case=Nom	_	_	_	_
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+9	почти	почти	ADV	_	Degree=Pos	_	_	_	_
+10	отработала	отработать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 13
+# text = в
+1	в	в	ADP	_	_	_	_	_	_
+
+[нрзб]
+
+nad@
+
+# sent_id = 15
+# text = в лицее / в торговом лицее бухгалтером
+1	в	в	ADP	_	_	_	_	_	_
+2	лицее	лицей	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	торговом	торговый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	лицее	лицей	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+7	бухгалтером	бухгалтер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 17
+# text = вот нуу...
+1	вот	вот	PART	_	_	_	_	_	_
+2	нуу	ну	PART	_	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 19
+# text = сейчас вот / уже / почти двенадцать лет / живём мы / в Москве в Московской
+1	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	почти	почти	ADV	_	Degree=Pos	_	_	_	_
+7	двенадцать	двенадцать	NUM	_	Case=Nom	_	_	_	_
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	живём	жить	VERB	_	Aspect=Imp|_|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+15	в	в	ADP	_	_	_	_	_	_
+16	Московской	московский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 21
+# text = области
+1	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 23
+# text = гм...
+1	гм	гм	INTJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 25
+# text = у меня муж / двое детей прекрасных
+1	у	у	ADP	_	_	_	_	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+3	муж	муж	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	двое	двое	NUM	_	Case=Nom	_	_	_	_
+6	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+7	прекрасных	прекрасный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 27
+# text = ммм...
+1	ммм	мм	INTJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 29
+# text = вот / старшая дочка / э...
+1	вот	вот	PART	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	старшая	старший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+4	дочка	дочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	э	э	INTJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+7	...	...	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+nad@
+
+# sent_id = 31
+# text = живёт / отдельно уже от нас / взрослая
+1	живёт	жить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	отдельно	отдельно	ADV	_	Degree=Pos	_	_	_	_
+4	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+5	от	от	ADP	_	_	_	_	_	_
+6	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	взрослая	взрослый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+nad@
+
+# sent_id = 33
+# text = младшая вот одиннадцатый класс закончила / поступила / в университет
+1	младшая	младший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	одиннадцатый	одиннадцатый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	класс	класс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+5	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	в	в	ADP	_	_	_	_	_	_
+10	университет	университет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+
+
